@@ -2,7 +2,7 @@ from model import Reader
 
 
 if __name__ == "__main__":
-    file: str = 'static/text.txt'
+    file: str = 'var/text.txt'
     reader: Reader = Reader(file)
     
     word = 'lorem'

@@ -16,4 +16,4 @@ Example. "hi hello world hello"
 
 <br>
 
-![trie](static/trie.png)
+![trie](ext/trie.png)
