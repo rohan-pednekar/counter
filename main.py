@@ -1,4 +1,4 @@
-from model import Reader
+from counter import Reader
 
 
 if __name__ == "__main__":
